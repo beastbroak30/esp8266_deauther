@@ -18,7 +18,7 @@ Here are some quick links:
 
 ## Password
 
-The password for `pwned` is `deauther`
+The password for the SSID: `pwned` is `deauther`
 
 ## About this Project
 
